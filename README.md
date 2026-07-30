@@ -1,113 +1,100 @@
-<h1 align="center">Hi 👋, I'm Ajay Tandale</h1>
-
-<h3 align="center">
-Computer Science Engineer | Red Hat Certified System Administrator (RHCSA) | Cybersecurity Enthusiast
-</h3>
+<h1 align="center">👋 Hi, I'm Ajay Tandale</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=EE0000&center=true&vCenter=true&width=650&lines=Computer+Science+Engineer;Red+Hat+Certified+(RHCSA);Cybersecurity+Enthusiast;Linux+%7C+Containers+%7C+Open+Source;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000,FF0000,000000&height=220&section=header&text=Ajay%20Tandale&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Computer Science Engineer
-- 🎖️ Red Hat Certified System Administrator (RHCSA)
-- 🛡️ Interested in Cybersecurity & Ethical Hacking
-- 🐧 Linux & Open Source Enthusiast
-- 📦 Learning Containers with Podman & Docker
-- ☁️ Exploring Cloud & DevOps
-- 💻 Passionate about System Administration and Automation
-
----
-
-## 🚀 Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,bash" />
-</p>
-
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
-</p>
-
-### Operating Systems & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,redhat,docker,git,github,vscode,vim" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
----
-
-## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;RHCSA+Certified;Cybersecurity+Enthusiast;Linux+%7C+Red+Hat+%7C+Containers;Open+Source+Learner"/>
 </p>
 
----
+🚀 About Me
 
-## 🔥 GitHub Streak
+🎓 Computer Science Engineer
+
+🎖️ Red Hat Certified System Administrator (RHCSA)
+
+🛡️ Cybersecurity & Linux Enthusiast
+
+🐧 Passionate about Linux, Podman, Docker and Open Source
+
+🌱 Currently learning Containers, DevOps and Security
+
+💻 Tech Stack
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical"/>
-
+<img src="https://skillicons.dev/icons?i=linux,redhat,bash,python,c,cpp,java,js,html,css,react,nodejs,mysql,mongodb,docker,git,github,vscode,vim&perline=9"/>
 </p>
 
----
-
-## 📈 Contribution Graph
+📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark"/>
-
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ajju-py&show_icons=true&theme=radical"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajju-py&layout=compact&theme=radical"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
+🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&margin-w=10&margin-h=10"/>
-
+<img src="https://streak-stats.demolab.com?user=ajju-py&theme=radical"/>
 </p>
 
----
+📈 Contribution Graph
 
-## 🌐 Connect With Me
-
-<p>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajju-py&theme=react-dark"/>
 </p>
 
----
+🏆 GitHub Trophies
 
-## 💡 Quote
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ajju-py&theme=radical&margin-w=12"/>
+</p>
 
-> "Learning never stops. Every commit is progress."
+🐍 Contribution Snake
+
+Generate automatically with GitHub Actions.
+
+uses: Platane/snk@v3
+
+🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/ajju-py"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
+</p>
+
+👨‍💻 Hacker Terminal
+
+$ whoami
+Ajay Tandale
+
+$ role
+Computer Science Engineer
+
+$ certification
+RHCSA Certified
+
+$ interests
+Cybersecurity
+Linux
+Containers
+Open Source
+
+$ status
+Always Learning...
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ajju-py&style=for-the-badge&color=red"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000,FF0000,8B0000&height=120&section=footer"/>
+</p>
+

@@ -1,3 +1,4 @@
+````markdown
 <h1 align="center">👋 Hi, I'm Ajay Tandale</h1>
 
 <p align="center">
@@ -8,9 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;RHCSA+Certified;Cybersecurity+Enthusiast;Linux+%7C+Red+Hat+%7C+Containers;Software+%26+Infrastructure+Enthusiast;Data+Engineering+%7C+Big+Data;Learning+Databricks+%7C+Snowflake;Open+Source+Learner"/>
 </p>
 
----
-
-## 🚀 About Me
+🚀 About Me
 
 🎓 Computer Science Engineer
 
@@ -18,7 +17,7 @@
 
 🛡️ Cybersecurity & Linux Enthusiast
 
-🐧 Passionate about Linux, Red Hat, Podman, Docker and Open Source
+🐧 Passionate about Linux, Podman, Docker and Open Source
 
 ⚙️ Interested in System Administration, Automation, DevOps and Infrastructure
 
@@ -26,79 +25,140 @@
 
 🌱 Currently learning **Big Data, Databricks and Snowflake**
 
-🧠 Self-prepared RHCE-level skills with hands-on **Ansible** knowledge
+🧠 Self-prepared RHCE-level skills with practical **Ansible** knowledge
 
 💻 Interested in building, securing and automating systems
 
----
-
-## 💻 Tech Stack
+💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,redhat,bash,python,c,cpp,java,js,html,css,react,nodejs,mysql,mongodb,docker,git,github,vscode,vim&perline=9"/>
 </p>
 
-### 🐧 Linux & Red Hat
+📊 GitHub Stats
 
 <p align="center">
-<img src="https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-<img src="https://img.shields.io/badge/RHCSA-Certified-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/SELinux-Security-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Firewalld-Security-black?style=for-the-badge"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ajju-py&show_icons=true&theme=radical"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajju-py&layout=compact&theme=radical"/>
 </p>
 
-### ⚙️ Automation, Containers & DevOps
+🔥 GitHub Streak
 
 <p align="center">
-<img src="https://img.shields.io/badge/Bash-Scripting-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Podman-Containers-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenShift-Learning-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
+<img src="https://streak-stats.demolab.com?user=ajju-py&theme=radical"/>
 </p>
 
-### 🔐 Cybersecurity & Networking
+📈 Contribution Graph
 
 <p align="center">
-<img src="https://img.shields.io/badge/SSH-Secure%20Access-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TCP%2FIP-Networking-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HTTP%2FHTTPS-Web-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajju-py&theme=react-dark"/>
 </p>
 
-### 📊 Data Engineering & Big Data
+🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://img.shields.io/badge/Big%20Data-Learning-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Databricks-Learning-EF3A3A?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snowflake-Learning-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Working%20Knowledge-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ajju-py&theme=radical&margin-w=12"/>
 </p>
 
----
+🐍 Contribution Snake
 
-## 📚 Certifications & Training
+Generate automatically with GitHub Actions.
 
-🎖️ **Red Hat Certified System Administrator (RHCSA)**
+```yaml
+name: Generate Snake
 
-☁️ **Red Hat Certified Developer in Cloud-native Applications**
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-🧩 **RHCE-level Self-Prepared Skills**
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
 
-⚙️ **Ansible Automation**
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ajju-py
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-> RHCE certification is not claimed. I have independently prepared for RHCE-level concepts and developed practical Ansible skills.
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+````
 
----
+🌐 Connect With Me
 
-## 🌱 Currently Learning
+<p align="center">
+<a href="https://github.com/ajju-py"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ajay-tandale-8030b8231/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/ajju.py/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:ajaytandale8983@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-```text
+👨‍💻 Hacker Terminal
+
+```bash
+$ whoami
+Ajay Tandale
+
+$ role
+Computer Science Engineer
+
+$ certification
+RHCSA Certified
+
+$ interests
+Cybersecurity
+Linux
+Red Hat
+Containers
+Open Source
+DevOps
+Data Engineering
 Big Data
-   │
-   ├── Data Engineering
-   │
-   ├── Databricks
-   │
-   └── Snowflake
+
+$ skills
+Linux Administration
+RHEL
+Bash
+Ansible
+Docker
+Podman
+OpenShift
+Python
+SQL
+Networking
+
+$ currently_learning
+Big Data
+Databricks
+Snowflake
+
+$ rhce
+Self Prepared
+Ansible Skills Acquired
+Certification Not Claimed
+
+$ status
+Always Learning...
+```
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ajju-py&style=for-the-badge&color=red"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000,FF0000,8B0000&height=120&section=footer"/>
+</p>
+```
